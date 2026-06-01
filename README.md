@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">aiodns</h1>
-<p align="center">discord bot dev · full-stack · always learning</p>
+<p align="center">D.py bot dev · full-stack · always learning</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aiodns&label=views&color=7c3aed&style=flat" alt="Profile Views">
@@ -10,8 +10,8 @@
 
 ```js
 // about me
-// shipped 30+ discord bots for people across the internet
-// you might know @luster, @appear, and others — actively dev'd on 10+
+// shipped 30+ bots for people across the internet
+// you might know @luster, @appear, and others, actively dev'd on 10+
 // perpetually curious. always in the middle of learning something.
 ```
 
@@ -42,7 +42,7 @@
 
 ---
 
-> *blonde was a perfect album and i won't be taking questions*
+> *CHANNEL ORANGE was a perfect album and i won't be taking questions*
 
 ---
 
