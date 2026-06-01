@@ -120,7 +120,7 @@
   <br>
   <img src="https://novatorem-ten-nu.vercel.app/api/spotify" alt="Spotify Now Playing">
   <br>
-  <em>Check out my coding playlist on Spotify!</em>
+  <em>I cant write without music...</em>
 </details>
 
 ---
