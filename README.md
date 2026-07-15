@@ -11,7 +11,7 @@
 ```js
 // about me
 // shipped 30+ bots for people across the internet
-// you might know @luster, @appear, and others, actively dev'd on 10+
+// you might know @elude, @luster, and others, actively dev'd on 10+
 // perpetually curious. always in the middle of learning something.
 ```
 
