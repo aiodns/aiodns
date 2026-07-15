@@ -1,4 +1,4 @@
-<h1 align="center">Uriel</h1>
+<h1 align="center">uriel</h1>
 
 <p align="center">
 Python • Discord • Backend • Building things because I can
