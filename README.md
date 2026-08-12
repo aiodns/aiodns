@@ -1,11 +1,11 @@
 <h1 align="center">uriel</h1>
 
 <p align="center">
-Python • Discord • Backend • Building things because I can
+  Python • Discord • Backend • Automation
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aiodns&label=views&color=7c3aed&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aiodns&label=views&color=7c3aed&style=flat" />
 </p>
 
 ---
@@ -18,18 +18,45 @@ class Uriel:
     languages = (
         "Python",
         "TypeScript",
-        "SQL"
+        "SQL",
     )
 
     interests = (
         "Discord Bots",
         "Automation",
         "Backend APIs",
-        "Pokemon Projects"
+        "Pokemon Projects",
     )
 
     status = "Always building something."
 ```
+
+---
+
+### What I Do
+
+I build Discord applications, backend services, and automation tools, mostly with Python.
+
+I'm also a **co-developer of [Elude](https://elude.lol)**.
+
+### Discord Projects
+
+Working on a Discord bot or application?
+
+**Send it to me.**
+
+I'm happy to take a look, review the project, and give feedback on things like:
+
+* Code quality
+* Architecture
+* Performance
+* Discord API usage
+* Features and UX
+* Things that could be improved
+
+I'm also open to **working on Discord-related projects** with other developers.
+
+If you're building something interesting, feel free to reach out.
 
 ---
 
@@ -44,25 +71,9 @@ class Uriel:
 
 ---
 
-### GitHub
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aiodns&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&icon_color=7c3aed&title_color=c9a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aiodns&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiodns&theme=react-dark&hide_border=true&bg_color=0d1117&line=7c3aed&point=c9a6ff&color=7c3aed"/>
-</p>
-
----
-
 ### Currently
 
-* Building Discord applications
-* Learning new backend technologies
-* Creating automation tools
-* Always experimenting with Python
+Building Discord applications, experimenting with backend technologies, and turning random ideas into working software.
 
 ---
 
@@ -71,6 +82,10 @@ class Uriel:
 ---
 
 <p align="center">
+
+<a href="https://elude.lol">
+<img src="https://img.shields.io/badge/Elude-7c3aed?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 <a href="https://github.com/aiodns">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
