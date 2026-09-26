@@ -17,18 +17,17 @@ class Uriel:
 
     languages = (
         "Python",
-        "TypeScript",
+        "Generic Site Building",
         "SQL",
     )
 
     interests = (
         "Discord Bots",
         "Automation",
-        "Backend APIs",
-        "Pokemon Projects",
+        "Anything discord.py/py-self
     )
 
-    status = "Always building something."
+    status = "sleepy"
 ```
 
 ---
@@ -63,21 +62,14 @@ If you're building something interesting, feel free to reach out.
 ### Tech
 
 ![Python](https://img.shields.io/badge/Python-7c3aed?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-6d28d9?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-202225?style=for-the-badge\&logo=discord\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-202225?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-202225?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-202225?style=for-the-badge\&logo=git\&logoColor=white)
+![discord.py-self](https://img.shields.io/badge/discord.py-202225?style=for-the-badge\&logo=discord\&logoColor=white)
 
 ---
 
 ### Currently
 
-Building Discord applications, experimenting with backend technologies, and turning random ideas into working software.
-
----
-
-> *"If it can be automated, I'll probably automate it."*
+Awaiting.
 
 ---
 
