@@ -36,8 +36,6 @@ class Uriel:
 
 I build Discord applications, backend services, and automation tools, mostly with Python.
 
-I'm also a **co-developer of [Elude](https://elude.lol)**.
-
 ### Discord Projects
 
 Working on a Discord bot or application?
@@ -53,7 +51,6 @@ I'm happy to take a look, review the project, and give feedback on things like:
 * Features and UX
 * Things that could be improved
 
-I'm also open to **working on Discord-related projects** with other developers.
 
 If you're building something interesting, feel free to reach out.
 
@@ -65,11 +62,6 @@ If you're building something interesting, feel free to reach out.
 ![discord.py](https://img.shields.io/badge/discord.py-202225?style=for-the-badge\&logo=discord\&logoColor=white)
 ![discord.py-self](https://img.shields.io/badge/discord.py-202225?style=for-the-badge\&logo=discord\&logoColor=white)
 
----
-
-### Currently
-
-Awaiting.
 
 ---
 
